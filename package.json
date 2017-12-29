@@ -1,6 +1,6 @@
 {
   "name": "webpack-ftp-upload-plugin",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A webpack ftp upload plugin.",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,11 @@
     "plugin",
     "ftp"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgxhx/webpack-ftp-upload-plugin.git"
+  },
+  "homepage": "https://github.com/tgxhx/webpack-ftp-upload-plugin",
   "author": "tgxh",
   "license": "MIT",
   "devDependencies": {
