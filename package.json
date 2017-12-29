@@ -1,0 +1,20 @@
+{
+  "name": "webpack-ftp-upload-plugin",
+  "version": "1.0.0",
+  "description": "A webpack ftp upload plugin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wepback",
+    "plugin",
+    "ftp"
+  ],
+  "author": "tgxh",
+  "license": "MIT",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "scp2": "^0.5.0"
+  }
+}
